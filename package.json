@@ -1,0 +1,46 @@
+{
+  "name": "loudoun-county-master-gardner",
+  "version": "1.0.0",
+  "description": "A modern, responsive website clone of the Loudoun County Master Gardeners organization, featuring an AI-powered gardening chatbot with expert horticulture advice.",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "test": "echo \"Open test.html in your browser to run tests\"",
+    "build": "echo \"No build process required for static site\"",
+    "deploy": "echo \"Deploy to Vercel or your preferred hosting service\""
+  },
+  "keywords": [
+    "gardening",
+    "master-gardeners",
+    "horticulture",
+    "virginia",
+    "loudoun-county",
+    "ai-chatbot",
+    "gemini-ai",
+    "responsive-design",
+    "static-site",
+    "vercel"
+  ],
+  "author": "Loudoun County Master Gardeners",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/majidsafwaan2/loudoun-county-master-gardner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/majidsafwaan2/loudoun-county-master-gardner/issues"
+  },
+  "homepage": "https://github.com/majidsafwaan2/loudoun-county-master-gardner#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "devDependencies": {},
+  "dependencies": {}
+}
